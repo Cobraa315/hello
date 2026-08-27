@@ -12,7 +12,8 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
-  printf("I love the School of Computing!\n");
+  printf(" My name is Samyak Jain\n");
+  printf("We love the School of Computing!\n");
   printf("an extra statement which is cool.\n");
 
   return 0;
